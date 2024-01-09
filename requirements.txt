@@ -10,7 +10,7 @@ diffusers==0.17.1
 einops==0.4.1
 exceptiongroup==1.1.0
 filelock==3.9.0
-fonttools==4.38.0
+fonttools==4.43.0
 fsspec==2023.6.0
 google-auth==2.20.0
 google-auth-oauthlib==0.4.6
