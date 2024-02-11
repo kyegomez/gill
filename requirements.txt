@@ -14,7 +14,7 @@ fonttools==4.38.0
 fsspec==2023.6.0
 google-auth==2.20.0
 google-auth-oauthlib==0.4.6
-grpcio==1.54.2
+grpcio==1.54.3
 huggingface-hub==0.15.1
 idna==3.4
 importlib-metadata==6.6.0
